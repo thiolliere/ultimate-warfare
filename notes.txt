@@ -1,0 +1,13 @@
+ultimate warfare
+	tir fin de vie 
+	tir multi direction
+	vie +regenere vite
+	3 fusils snipe et mitraillette difference: temps recharge, impulse et recul ( fonction de impulse)
+et un raycast
+	menu option
+	obstacle spéciaux
+
+	(lors de retournent changer l'angle (symetrie d'axe y) pas sur )
+
+	obstacle renvoie balle -- triangle dans coin et losange pour toucher en haut et baut ...l à vitesse balle
+	degat proportionnel à vitesse et masse
