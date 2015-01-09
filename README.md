@@ -2,7 +2,7 @@
 <h1> ultimate-warfare </h1>
 <p>A raw but playable game made with löve</p>
 <h2> about </h2>
-<p>It is a small versus fighting game created to make my hand with löve.
+<p>It is a small two player fight game created to make my hand with löve.
 Even if I had more idea on it ( weapon, graphics, networking ...) it is no longer updated... for the moment ?<br>The code has been quickly finished as I moved to another project, you may found some nasty line, please be conciliant and don't judge me.</p>
 <h2> play</h2>
 <p>download with the download ZIP button one the right toolbar
