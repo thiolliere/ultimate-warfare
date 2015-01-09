@@ -9,13 +9,16 @@ The code has been quickly finished as I moved to another project, you may found 
 INSTALL 
 
 1- build dependencies : löve version 0.9 
+
 on ubuntu : sudo apt-get install love
+
 or can be found there https://love2d.org/
 
 2- download the source available at https://github.com/thiolliere/ultimate-warfare
 
 PLAY
 
-love ./ultimate-warfare/
-or ./execute.bash 
+love ./the-name-you-unzip-the-source/
+
+or ./execute.bash
 ...
