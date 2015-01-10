@@ -10,7 +10,7 @@ Even if I had more idea on it ( weapon, graphics, networking ...) it is no longe
 	<li><h3>Linux</h3>
 	<p> install löve version 0.9 : in Ubuntu/Debian : <code>sudo apt-get install love</code><br>play with : <code>love ultimate-warfare.love</code></p></li>
 	<li><h3>Windows</h3>
-	<p> go to the windows directory, 32 or 64 depends of your processor and find the ultimate-warfare.exe</p></li>
+	<p> go to the windows directory, 32 or 64 depends on your processor and find the ultimate-warfare.exe</p></li>
 	<li><h3>Mac OS X</h3>
 	<p> check in ultimate-warfare_osx.zip if there is something for you, don't really know how it works</p></li>
 </ul>
