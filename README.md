@@ -15,4 +15,4 @@ Even if I had more idea on it ( weapon, graphics, networking ...) it is no longe
 	<p> check in ultimate-warfare_osx.zip if there is something for you, don't really know how it works</p></li>
 </ul>
 <h2> Issue</h2>
-<p> For any please inform me here <a href>https://github.com/thiolliere/ultimate-warfare/</a>, I'll be happy to fix it and make a fullfonctionnal release... if I succed in it.<small> Gameplay issue may be used to mad your opponent</small></p> 
+<p> For any please inform me here <a href>https://github.com/thiolliere/ultimate-warfare/</a>, I'll be happy to fix it and make a fullfonctionnal release... if I succed in it.<sub> Gameplay issue may be used to mad your opponent</sub></p> 
