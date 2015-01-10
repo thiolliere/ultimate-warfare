@@ -12,7 +12,7 @@ Even if I had more idea on it ( weapon, graphics, networking ...) it is no longe
 	<li><h3>Windows</h3>
 	<p> go to the windows directory, 32 or 64 depends of your processor and find the ultimate-warfare.exe</p></li>
 	<li><h3>Mac OS X</h3>
-	<p> check in *.app directory if there is something for you, don't really know how it works</p></li>
+	<p> check in ultimate-warfare_osx.zip if there is something for you, don't really know how it works</p></li>
 </ul>
 <h2> Issue</h2>
 <p> For any please inform me here <a href>https://github.com/thiolliere/ultimate-warfare/</a>, I'll be happy to fix it and make a fullfonctionnal release... if I succed in it.</p> 
