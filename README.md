@@ -15,8 +15,8 @@ Even if I had more idea on it ( weapon, graphics, networking ...) it is no longe
 	<p> check in ultimate-warfare_osx.zip if there is something for you, don't really know how it works</p></li>
 </ul>
 <h2> play </h2>
-<p> <ul> <li> red player : move with <code> up, down, left, right </code> change weapon and shoot respectively <code> !, rshift </code></li>
-<li> red player : move with <code> z, s, q, d</code> use your guns with <code> lshift, lctrl </code>
+<p> <ul> <li> red : move with <code> up, down, left, right </code> change weapon and shoot respectively <code> !, rshift </code></li>
+<li> blue : move with <code> z, s, q, d</code> use your guns with <code> lshift, lctrl </code>
 </li>
 </ul>
 </p>
