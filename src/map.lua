@@ -19,6 +19,7 @@ map.spawn = function ()
 	end
 end
 
+
 map.wall = function()
 	staticwall.add("ground",{red=30,blue=8,green=180},1920/2,1080-meter,1920,2*meter,4)
 	staticwall.add("outleft",{red=150,blue=0,green=0},0,1080/2,2*meter,1080+2*meter,3)

@@ -43,8 +43,6 @@ function love.load()
 	time=0
 	permanent=""
 	dead=""
-	debog=""
-	debog2=""
 end
 
 function love.update(dt)
