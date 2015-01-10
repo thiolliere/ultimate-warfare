@@ -14,8 +14,6 @@ map.spawncharacter = function (number, character)
 end
 
 map.spawn = function ()
-	weapon[1].bullet={}
-	weapon[2].bullet={}
 	for k,v in pairs(character.character) do
 		map.spawncharacter(v.number,v)
 	end
