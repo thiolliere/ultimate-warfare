@@ -3,10 +3,12 @@
 cd "$(dirname $0)"
 cd ..
 dir="$(pwd)"
-name="$(cd ../ | basename $dir)"
+name="$(basename $dir)"
 
 #linux
-zip -9 -q -r "$name".love src
+cd "$dir"/src
+zip -9 -q -r "$name".love ./*
+mv "$name".love ../
 
 #windows donwload love-0.9-win32 and love-0.9-win64
 # and create the dir windows and in win32 and win64
