@@ -2,6 +2,8 @@ ultimate-warfare
 =======================================
 A raw but playable game made with löve
 
+it was my first game..
+
 about
 ----------------------------------------
 It is a small two player fight game created to make my hand with löve.
@@ -27,6 +29,3 @@ play
 * red : move with `up, down, left, right` change weapon and shoot respectively `!, rshift `
 * blue : move with `z, s, q, d` use your guns with `lshift, lctrl `
 
-issue
-----------------------------------------
-For any please inform me [here](https://github.com/thiolliere/ultimate-warfare/), I'll be happy to fix it and make a fullfonctionnal release... if I succed in it. <sub>gameplay issue may be used to mad your opponent</sub>
