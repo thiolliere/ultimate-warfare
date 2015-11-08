@@ -18,11 +18,8 @@ download with the download ZIP button one the right toolbar
 install löve version 0.9 : in Ubuntu/Debian : `sudo apt-get install love`  
 and play with : `love ultimate-warfare.love`
 
-* Windows   
-go to the windows directory, 32 or 64 depends on your processor and find the ultimate-warfare.exe
-
-* Mac OS X  
-check in ultimate-warfare-osx.zip if there is something for you, don't really know how it works
+* Windows/Mac OS X
+see at thiolliere.org for the binaries or just use the source with love2d
 
 play
 ----------------------------------------
